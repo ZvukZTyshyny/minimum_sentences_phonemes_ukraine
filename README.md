@@ -1,0 +1,1 @@
+# minimum_sentences_phonemes_ukraine
